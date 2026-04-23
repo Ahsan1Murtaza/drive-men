@@ -22,10 +22,10 @@ This project is a simple web application that allows users to upload files and l
 ## ⚙️ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/file-upload-download.git
+git clone <repo-url>
 
 # Navigate to the project directory
-cd file-upload-download
+cd <repo>
 
 # Install dependencies
 npm install
